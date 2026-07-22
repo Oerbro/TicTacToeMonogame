@@ -1,0 +1,17 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+*.suo
+
+# MonoGame content pipeline intermediate output
+Content/bin/
+Content/obj/
+
+# NuGet
+*.nupkg
+packages/
